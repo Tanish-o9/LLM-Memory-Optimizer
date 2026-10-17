@@ -1,5 +1,3 @@
-# LLM-Memory-Optimizer
-⚡ Scientific LLM memory profiler benchmarking FP16, INT8, &amp; INT4 precisions. Measures peak GPU VRAM savings, generation throughput (TPS), TTFT latency, and WikiText-2 perplexity drift with an interactive real-time Streamlit dashboard.
 # ⚡ LLM Memory Optimizer & Efficiency Profiler
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -72,7 +70,7 @@ The project includes a dark-themed, glassmorphic analytics dashboard built with 
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/<your-username>/LLM-Memory-Optimizer.git
+git clone https://github.com/Tanish-o9/LLM-Memory-Optimizer.git
 cd LLM-Memory-Optimizer
 pip install -r requirements.txt
 ```
